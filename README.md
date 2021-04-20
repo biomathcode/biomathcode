@@ -2,12 +2,6 @@
 
 ---
 
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksharm&hide=java,html,css&theme=radical)]
-
-[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratiksharm&theme=radical)]
-
 
 
 
