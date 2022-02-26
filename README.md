@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Pratik 
 
 ---
-https://emotionbadge.onrender.com/emotion/pratiksharm/smile
+https://emotionbadge.onrender.com/emotion/<pratiksharm>/<smile>
 
 
 
