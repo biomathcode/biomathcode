@@ -1,7 +1,51 @@
-### Hi there 👋, I am Pratik 
+
+
+  
+<h3> Hi 👋, I am Pratik                                                            
+  
+</h3>
 
 ---
-https://emotionbadge.onrender.com/emotion/<pratiksharm>/<smile>
+  
+
+- 🔭 I’m currently working on OpenMixtape
+- 🌱 I’m currently learning Rust Programming language
+- 🤔 I’m help you with nextjs, softwared development, front-end, web, react, nodejs.
+
+
+
+
+## Research interests 
+Software development,  Computational  Biology,  Bioinformatics,
+Neural Network,  Molecular Biology, System Biology, 
+
+
+
+## Currently working on 
+
+- [Subask](https://subask.in) for slack 
+
+
+- [BlogTo](https://marketplace.visualstudio.com/items?itemName=coolhead.blogto) for vscode
+
+- Open Mixtape 
+
+- Writing Blogs on [coolhead.in](https://coolhead.in)
+
+---
+
+
+## Contact Me here 
+
+
+Twitter: [@biomathcode](https://twitter.com/biomathcode)
+
+LinkedIn: [biomathcode](https://www.linkedin.com/in/biomathcode/)
+
+Polywork: [@biomathcode](https://ploywork.com/biomathcode) 
+
+
+
 
 
 
