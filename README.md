@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on OpenMixtape
 - 🌱 I’m currently learning Rust Programming language
-- 🤔 I’m help you with nextjs, softwared development, front-end, web, react, nodejs.
+- 🤔 I can help you with nextjs, softwared development, front-end, web, react, nodejs, python, web scraping and machine learning
 
 
 
