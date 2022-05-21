@@ -23,7 +23,7 @@ Neural Network,  Molecular Biology, System Biology,
 
 ## Currently working on 
 
-_ [pay via upi](https://payviaupi.com) 
+- [pay via upi](https://payviaupi.com) 
 
 - [BlogTo](https://marketplace.visualstudio.com/items?itemName=coolhead.blogto) for vscode
 
@@ -41,7 +41,7 @@ Twitter: [@biomathcode](https://twitter.com/biomathcode)
 
 LinkedIn: [biomathcode](https://www.linkedin.com/in/biomathcode/)
 
-peerlist: [biomathcode](https://www.peerlist.com/biomathcode)
+peerlist: [biomathcode](https://www.peerlist.io/biomathcode)
 Polywork: [@biomathcode](https://ploywork.com/biomathcode) 
 
 
