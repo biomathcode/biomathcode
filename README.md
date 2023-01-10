@@ -14,6 +14,8 @@
 
 
 
+<a href="http://www.github.com/biomathcode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=biomathcode&bg_color=000000&color=6366f1&line=6366f1&point=6366f1&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 ## Research interests 
 Software development,  Computational  Biology,  Bioinformatics,
