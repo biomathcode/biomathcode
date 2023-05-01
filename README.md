@@ -59,7 +59,7 @@ Polywork: [@biomathcode](https://ploywork.com/biomathcode)
 
 <hr>
 
-Want to add donate via upi option on your github repo visit [payviaupi.com](https://payviaupi.com)
+Want to add donate via upi option on your github repo visit [payviaupi.com](https://donateviaupi.com)
 
 <!--
 **pratiksharm/pratiksharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
