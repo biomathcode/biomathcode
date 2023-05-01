@@ -25,7 +25,7 @@ Neural Network,  Molecular Biology, System Biology,
 
 ## Currently working on 
 
-- [pay via upi](https://payviaupi.com) 
+- [pay via upi](https://pay-via-upi.vercel.app/ ) 
 
 - [BlogTo](https://marketplace.visualstudio.com/items?itemName=coolhead.blogto) for vscode
 
