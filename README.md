@@ -14,25 +14,6 @@
 
 
 
-## Research interests 
-Software development,  Computational  Biology,  Bioinformatics,
-Neural Network,  Molecular Biology, System Biology, 
-
-
-
-## Currently working on 
-
-- [pay via upi](https://pay-via-upi.vercel.app/ ) 
-
-- [BlogTo](https://marketplace.visualstudio.com/items?itemName=coolhead.blogto) for vscode
-
-- Open Mixtape 
-
-- Writing Blogs on [coolhead.in](https://coolhead.in)
-
----
-
-
 ## Contact Me here 
 
 
