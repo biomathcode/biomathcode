@@ -22,7 +22,7 @@ Twitter: [@biomathcode](https://twitter.com/biomathcode)
 LinkedIn: [biomathcode](https://www.linkedin.com/in/biomathcode/)
 
 peerlist: [biomathcode](https://www.peerlist.io/biomathcode)
-Polywork: [@biomathcode](https://ploywork.com/biomathcode) 
+Polywork: [@biomathcode](https://polywork.com/biomathcode) 
 
 
 
