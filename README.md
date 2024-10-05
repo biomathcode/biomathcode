@@ -30,9 +30,12 @@ Polywork: [@biomathcode](https://polywork.com/biomathcode)
 
 ### Blog posts
 
-<!-- BLOG-POST-LIST:START --> 
-
-
+<!-- BLOG-POST-LIST:START -->
+- [Garbage Collector in javascript](https://dev.to/biomathcode/garbage-collector-in-javascript-40o2)
+- [Demystifying JavaScript Terminology](https://dev.to/biomathcode/demystifying-javascript-terminology-4l9d)
+- [Preparing For Azure - 204](https://dev.to/biomathcode/preparing-for-azure-204-fan)
+- [Create Tik-Tok/Youtube Shorts like snap infinite scroll - React](https://dev.to/biomathcode/create-tik-tokyoutube-shorts-like-snap-infinite-scroll-react-1mca)
+- [hackerrank Mini-Max Sum in javascript](https://dev.to/biomathcode/hackerrank-mini-max-sum-in-javascript-446f)
 <!-- BLOG-POST-LIST:END -->
 
 
