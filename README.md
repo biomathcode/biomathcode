@@ -42,11 +42,7 @@ Polywork: [@biomathcode](https://polywork.com/biomathcode)
 <!-- BLOG-POST-LIST:END -->
 
 
-### From Coolhead.in
 
-<!-- HASHNODE_BLOG:START -->
-
-<!-- HASHNODE_BLOG:END -->
 
 
 
