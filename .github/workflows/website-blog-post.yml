@@ -1,22 +1,23 @@
-name: 'Hashnode Blogs'
+name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs every hour, on the hour.
+    - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
   update_blogs:
-    name: 'Hashnode Latest Blogs'
-    runs-on: macos-latest
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
     steps:
-      - name: 'Fetch Repository Contents'
+      - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: 'Hashnode Blog Action'
-        uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.9"
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          HASHNODE_PUBLICATION_NAME: 'blog.coolhead.in'
-          FORMAT: 'stacked'
+          USERNAME: 'biomathcode' # Hashnode Username
+          BLOG_URL: 'https://blog.coolhead.in' # Blog URL
+          COUNT: 10 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
