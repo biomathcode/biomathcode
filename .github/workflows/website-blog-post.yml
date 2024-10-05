@@ -1,0 +1,22 @@
+name: 'Hashnode Blogs'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every hour, on the hour.
+
+jobs:
+  update_blogs:
+    name: 'Hashnode Latest Blogs'
+    runs-on: macos-latest
+    steps:
+      - name: 'Fetch Repository Contents'
+        uses: actions/checkout@main
+
+      - name: 'Hashnode Blog Action'
+        uses: "Sachin-chaurasiya/hashnode-blog-action@v0.0.9"
+        with:
+          HASHNODE_PUBLICATION_NAME: 'blog.coolhead.in'
+          FORMAT: 'stacked'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
