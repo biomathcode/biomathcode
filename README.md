@@ -34,11 +34,11 @@ Polywork: [@biomathcode](https://polywork.com/biomathcode)
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mixins in typescript](https://dev.to/biomathcode/mixins-in-typescript-56ll)
 - [Symbol in Javascript with Example](https://dev.to/biomathcode/symbol-in-javascript-with-example-4ibj)
 - [Logging System with Proxy and Fetch](https://dev.to/biomathcode/logging-system-with-proxy-and-fetch-57lk)
 - [Garbage Collector in javascript](https://dev.to/biomathcode/garbage-collector-in-javascript-40o2)
 - [Demystifying JavaScript Terminology](https://dev.to/biomathcode/demystifying-javascript-terminology-4l9d)
-- [Preparing For Azure - 204](https://dev.to/biomathcode/preparing-for-azure-204-fan)
 <!-- BLOG-POST-LIST:END -->
 
 
