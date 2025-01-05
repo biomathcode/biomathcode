@@ -34,11 +34,11 @@ Polywork: [@biomathcode](https://polywork.com/biomathcode)
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Exciting Web Trends to Watch in 2025](https://dev.to/biomathcode/10-exciting-web-trends-to-watch-in-2025-2cpk)
 - [Explaining Scoped Context in React with example](https://dev.to/biomathcode/explaining-scoped-context-in-react-with-example-2371)
 - [Top 10 Books on Design System that i Read last year](https://dev.to/biomathcode/top-10-books-on-design-system-that-i-read-last-year-3n7i)
 - [Mixins in typescript](https://dev.to/biomathcode/mixins-in-typescript-56ll)
 - [Symbol in Javascript with Example](https://dev.to/biomathcode/symbol-in-javascript-with-example-4ibj)
-- [Logging System with Proxy and Fetch](https://dev.to/biomathcode/logging-system-with-proxy-and-fetch-57lk)
 <!-- BLOG-POST-LIST:END -->
 
 
