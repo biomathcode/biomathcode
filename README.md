@@ -34,11 +34,11 @@ Polywork: [@biomathcode](https://polywork.com/biomathcode)
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Performant Rectangle Selection Box with Callbacks Using Web Components](https://dev.to/biomathcode/creating-a-performant-rectangle-selection-box-with-callbacks-using-web-components-b4)
 - [CSS Animation Performance - CheatSheet](https://dev.to/biomathcode/css-animation-performance-cheatsheet-3g70)
 - [10 Exciting Web Trends to Watch in 2025](https://dev.to/biomathcode/10-exciting-web-trends-to-watch-in-2025-2cpk)
 - [Explaining Scoped Context in React with example](https://dev.to/biomathcode/explaining-scoped-context-in-react-with-example-2371)
 - [Top 10 Books on Design System that i Read last year](https://dev.to/biomathcode/top-10-books-on-design-system-that-i-read-last-year-3n7i)
-- [Mixins in typescript](https://dev.to/biomathcode/mixins-in-typescript-56ll)
 <!-- BLOG-POST-LIST:END -->
 
 
