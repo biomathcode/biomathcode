@@ -34,11 +34,11 @@ Polywork: [@biomathcode](https://polywork.com/biomathcode)
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Delhi Metro Route Planner In React with GSAP](https://dev.to/biomathcode/i-built-a-delhi-metro-route-planner-in-react-with-gsap-4g9l)
 - [Best PDF Parsers for RAG Applications](https://dev.to/biomathcode/best-pdf-parsers-for-rag-applications-26j8)
 - [How Atlassian’s Forge Quest Hackathon Helped Me Revive My Postman Doc App](https://dev.to/biomathcode/how-atlassians-forge-quest-hackathon-helped-me-revive-my-postman-doc-app-42en)
 - [Creating a Performant Rectangle Selection Box with Callbacks Using Web Components](https://dev.to/biomathcode/creating-a-performant-rectangle-selection-box-with-callbacks-using-web-components-b4)
 - [CSS Animation Performance - CheatSheet](https://dev.to/biomathcode/css-animation-performance-cheatsheet-3g70)
-- [10 Exciting Web Trends to Watch in 2025](https://dev.to/biomathcode/10-exciting-web-trends-to-watch-in-2025-2cpk)
 <!-- BLOG-POST-LIST:END -->
 
 
